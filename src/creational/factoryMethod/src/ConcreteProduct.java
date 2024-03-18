@@ -1,4 +1,4 @@
-package creational.factoryMethod;
+package creational.factoryMethod.src;
 
 public class ConcreteProduct implements Product {
     @Override
