@@ -21,4 +21,9 @@ Sinta-se à vontade para explorar, aprender e contribuir para este repositório!
 ## Contribuições
 Contribuições são bem-vindas! Se você deseja adicionar exemplos de design patterns em novas linguagens de programação, corrigir erros ou melhorar a documentação, fique à vontade para enviar uma pull request.
 
+## Referencias que tive:
+- [Refactoring.guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns/)
+
+- [Design Patterns: seu código com mais qualidade e elegância](https://blog.geekhunter.com.br/design-patterns/)
+
 `Diariamente estudando um tipo diferente!`
