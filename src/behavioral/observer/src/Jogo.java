@@ -3,6 +3,9 @@ package behavioral.observer.src;
 import java.util.ArrayList;
 import java.util.List;
 
+import behavioral.observer.src.interfaces.Observer;
+import behavioral.observer.src.interfaces.Subject;
+
 public class Jogo implements Subject {
     private List<Observer> observadores = new ArrayList<>();
     private String placar;

@@ -1,5 +1,7 @@
 package behavioral.observer.src;
 
+import behavioral.observer.src.interfaces.Observer;
+
 public class Comentarista implements Observer {
     private String nome;
 

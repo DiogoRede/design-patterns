@@ -1,6 +1,6 @@
-package behavioral.observer.src;
+package behavioral.observer.src.interfaces;
 
-interface Subject {
+public interface Subject {
     void addObserver(Observer observer);
     void removeObserver(Observer observer);
     void notifyObservers(String placar);
