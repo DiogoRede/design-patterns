@@ -1,10 +1,10 @@
-package behavioral.strategy;
+package structural.strategy;
 
-import behavioral.strategy.src.ConcretePayment;
-import behavioral.strategy.src.Nubank;
-import behavioral.strategy.src.PayPal;
-import behavioral.strategy.src.PicPay;
-import behavioral.strategy.src.interfaces.PaymentStrategy;
+import structural.strategy.src.ConcretePayment;
+import structural.strategy.src.Nubank;
+import structural.strategy.src.PayPal;
+import structural.strategy.src.PicPay;
+import structural.strategy.src.interfaces.PaymentStrategy;
 
 public class Main {
     public static void main(String[] args) {

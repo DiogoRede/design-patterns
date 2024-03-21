@@ -1,4 +1,4 @@
-package behavioral.strategy.src.interfaces;
+package structural.strategy.src.interfaces;
 
 public interface PaymentStrategy {
     void pay(double valor);

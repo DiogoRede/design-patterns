@@ -1,8 +1,8 @@
-package structural.decorator;
+package behavioral.decorator;
 
-import structural.decorator.src.Acucar;
-import structural.decorator.src.Cafe;
-import structural.decorator.src.Leite;
+import behavioral.decorator.src.Acucar;
+import behavioral.decorator.src.Cafe;
+import behavioral.decorator.src.Leite;
 
 public class Main {
 

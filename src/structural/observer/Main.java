@@ -1,10 +1,10 @@
-package behavioral.observer;
+package structural.observer;
 
-import behavioral.observer.src.Comentarista;
-import behavioral.observer.src.Jogo;
-import behavioral.observer.src.Torcedor;
-import behavioral.observer.src.Treinador;
-import behavioral.observer.src.interfaces.Observer;
+import structural.observer.src.Comentarista;
+import structural.observer.src.Jogo;
+import structural.observer.src.Torcedor;
+import structural.observer.src.Treinador;
+import structural.observer.src.interfaces.Observer;
 
 public class Main {
     public static void main(String[] args) {

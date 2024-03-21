@@ -1,4 +1,4 @@
-package structural.decorator.src;
+package behavioral.decorator.src;
 
 public class Leite extends AddOn{
 

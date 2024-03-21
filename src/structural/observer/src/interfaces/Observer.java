@@ -1,4 +1,4 @@
-package behavioral.observer.src.interfaces;
+package structural.observer.src.interfaces;
 
 public interface Observer {
     void update(String placar);

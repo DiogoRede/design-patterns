@@ -1,6 +1,6 @@
-package behavioral.strategy.src;
+package structural.strategy.src;
 
-import behavioral.strategy.src.interfaces.PaymentStrategy;
+import structural.strategy.src.interfaces.PaymentStrategy;
 
 public class ConcretePayment {
     private PaymentStrategy strategy;

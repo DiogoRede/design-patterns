@@ -1,4 +1,4 @@
-package structural.decorator.src;
+package behavioral.decorator.src;
 
 public abstract class Bebida {
 	private String descricao;

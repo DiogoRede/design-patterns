@@ -1,6 +1,6 @@
-package behavioral.observer.src;
+package structural.observer.src;
 
-import behavioral.observer.src.interfaces.Observer;
+import structural.observer.src.interfaces.Observer;
 
 public class Torcedor implements Observer {
     private String nome;
